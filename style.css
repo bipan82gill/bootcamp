@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Courier New';
+    font-display: blue;
+    font-size: 2rem;
+}
+p{
+    font-display: red;
+    font-size: 1rem;
+}
